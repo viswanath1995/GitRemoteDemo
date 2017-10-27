@@ -1,9 +1,9 @@
-public class test{
+public class Test{
 public static void main(String args[]){
 
-system.out.println("Tester is working");
+System.out.println("Tester is working");
 
-system.out.println("hello");
+System.out.println("hello");
 }
 
 }
